@@ -1,2 +1,2 @@
-# ED02
+# EDGaHg
 Clase de estructura 
