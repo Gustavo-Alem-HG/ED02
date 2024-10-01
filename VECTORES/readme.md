@@ -22,4 +22,4 @@ _Italica_
 ¿Como se imprime?
 ```
 
-![Imagen] (https://hospitalveterinariodonostia.com/wp-content/uploads/2022/02/Personalidad-gatos.png).
+![Imagen](https://hospitalveterinariodonostia.com/wp-content/uploads/2022/02/Personalidad-gatos.png).
