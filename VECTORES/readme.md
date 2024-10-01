@@ -8,7 +8,13 @@
 * Tres
 * Cuatro
 
-  1. Uno
-  2. Dos
-  3. Tres
-  4. Cuatro
+1. Punto 1
+2. Punto dos
+3. punto tres
+
+**Negritas**
+
+_Italica_
+
+***Negrita italica***
+
