@@ -18,3 +18,6 @@ _Italica_
 
 ***Negrita italica***
 
+```
+¿Como se imprime?
+```
