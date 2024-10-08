@@ -1,6 +1,7 @@
 
-# *Codigo de bubble short*
-```
+Codigo de bubble short
+
+
 #include <iostream>
 #include <vector>
 #include <random>
@@ -96,5 +97,3 @@ void imprime(const vector<double>& v)
     cout << endl;
     
 }
-
-```
