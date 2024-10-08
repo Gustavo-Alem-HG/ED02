@@ -1,7 +1,4 @@
 
-Codigo de bubble short
-
-
 #include <iostream>
 #include <vector>
 #include <random>
